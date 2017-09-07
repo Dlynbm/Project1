@@ -1,0 +1,73 @@
+body {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Verdana;
+}
+
+.header {
+    font-weight: bold;
+
+}
+
+.searchbox {
+    float: right;
+    padding: 5px;
+    margin: 10px 10px;
+    width: 200px;
+}
+
+.headerlogo {
+    margin-right:0px;
+}
+
+.headerlogo > img {
+    height: 60px;
+    width: 60px;
+}
+
+.headername {
+    font-size: 22px;
+    font-family: "Lato sans-serif;
+    text-shadow: 5px 5px 5px #a7c3ef;
+    color: #06327a;
+    padding: 15px;
+    margin: 0px 30px;
+    font-weight: bold;
+
+}
+
+nav {
+    height: 45px;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li {
+    display: block;
+}
+
+.backgroundgradient {
+    background: -webkit-linear-gradient(left, #a7c3ef, #689df2); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #a7c3ef, #689df2); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #a7c3ef, #689df2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #a7c3ef, #689df2);
+}
+
+
+.navlink {
+    height: 35px;
+    margin-right: 10px;
+    font-size: 18px;
+    float: right;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+}
