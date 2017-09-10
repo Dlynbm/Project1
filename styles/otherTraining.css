@@ -2,11 +2,11 @@ body {
     width: 1000px;
     margin-right: auto;
     margin-left: auto;
-    font-family: Verdana;
+    font-family: Verdana, Arial;
 }
 
 .header {
-    font-weight:bold;
+    font-weight: bold;
 
 }
 
@@ -23,6 +23,9 @@ body {
     height: 60px;
     width: 60px;
     margin-bottom: 50px;
+
+
+
 }
 .headerlogo > img {
     height: 60px;
@@ -39,7 +42,6 @@ body {
     margin: 0 30px;
     font-weight: bold;
 }
-
 nav {
     height: 45px;
     width: 100%;
@@ -71,131 +73,65 @@ nav ul li {
     font-size: 18px;
     float: right;
     padding: 12px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
-h1 {
-    font-size: 50px;
-}
-h2 {
-    font-size: 32px;
-    font-weight: normal;
-    text-transform: uppercase;
-    letter-spacing: 4px;
+.mainImage {
+    position: relative;
+    width:100%;
 }
 
-h6 {
-    font-size: 22px;
-}
-.banner h1, .banner h2, .banner h6 {
-    margin: 0;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.banner {
-    color:black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-
-
-.container-1 {
-    display: flex;
-    width: 100%;
+.container-1{
+    display:flex;
+    width:100%;
+    height: 400px;
     margin-top: 10px;
 
+
 }
 
-.container-1 div {
+.container-1 div{
     border: 3px #ccc solid;
     padding: 10px;
     margin-right: 4px;
-    align-items: center;
-    height: 200px;
+
 }
 
 .box-1 {
-    flex: 1;
+    flex:1;
+    background-color: #DBEFE7;
     text-align: center;
-
-
 }
 
 .box-2 {
-    flex: 1;
+    flex:1;
     background-color: #B2C8C6;
     text-align: center;
 
 }
 
-.container-2 {
-    display: flex;
-    width: 100%;
-    margin-top: 10px;
-
-}
-
-.container-2 div {
-    border: 3px #ccc solid;
-    padding: 10px;
-    margin-right: 4px;
-    align-items: center;
-    height: 200px;
-}
-
 .box-3 {
-    flex: 1;
-    background-color: #A69B8C;
+    flex:1;
+    background-color: #F2F3F2;
     text-align: center;
-
 }
 
 .box-4 {
-    flex: 1;
+    flex:1;
+    background-color: #A69B8C;
     text-align: center;
-
-}
-
-.container-3 {
-    display:flex;
-    width: 100%;
-    margin-top: 10px;
-
-}
-
-.container-3 div {
-    border: 3px #ccc solid;
-    padding: 10px;
-    margin-right: 4px;
-    align-items: center;
-    height: 200px;
-}
-
-.box-5 {
-    flex: 1;
-    text-align: center;
-
-}
-
-.box-6 {
-    flex: 1;
-    background-color: #DBEFE7;
-    text-align: center;
-
 }
 
 footer {
-     flex-direction: column;
-     text-align: center;
-     color: black;
-     clear: both;
-     background-color: #D6CCBC;
-     margin: 10px 0px 10px;
-     padding: 5px;
- }
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    clear: both;
+    background-color: #D6CCBC;
+    margin: 10px 0 10px;
+    padding: 5px;
+}
+
+/*otherTraining*/
 
