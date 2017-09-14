@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3646ba25-a694-4f31-a217-b133ecf3ce57" name="Default" comment="Added flex boxes to home page and Other Training page.">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/elearning2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/elearning4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/othertraining.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trainingtest.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/USDC Training.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/elearning3.png" afterPath="$PROJECT_DIR$/Images/elearning3.png" />
+    <list default="true" id="3646ba25-a694-4f31-a217-b133ecf3ce57" name="Default" comment="Fixed styling and re-structured.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Recert.html" afterPath="$PROJECT_DIR$/Recert.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactUs.html" afterPath="$PROJECT_DIR$/contactUs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo.html" afterPath="$PROJECT_DIR$/neo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/otherTraining.html" afterPath="$PROJECT_DIR$/otherTraining.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/otherTraining.css" afterPath="$PROJECT_DIR$/styles/otherTraining.css" />
@@ -27,22 +22,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf>
+      <file leaf-file-name="Recert.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recert.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            <state relative-caret-position="960">
+              <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/style.css">
+      <file leaf-file-name="otherTraining.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/styles/otherTraining.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="126" column="18" lean-forward="false" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,28 +46,8 @@
       <file leaf-file-name="otherTraining.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/otherTraining.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="otherTraining.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/otherTraining.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2010">
-              <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactUs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contactUs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="81" />
+            <state relative-caret-position="250">
+              <caret line="71" column="14" lean-forward="false" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -81,8 +56,8 @@
       <file leaf-file-name="neo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="65" lean-forward="false" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
+            <state relative-caret-position="376">
+              <caret line="69" column="67" lean-forward="true" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -94,6 +69,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Less File" />
+        <option value="SCSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -118,18 +95,26 @@
         <option value="$PROJECT_DIR$/../lab2/Lab2.html" />
         <option value="$PROJECT_DIR$/../lab2/Lab2coffeedetails.html" />
         <option value="$PROJECT_DIR$/styles/othertraining.html" />
-        <option value="$PROJECT_DIR$/trainingtest.html" />
         <option value="$PROJECT_DIR$/otherTraining.css" />
         <option value="$PROJECT_DIR$/../lab2/style.css" />
-        <option value="$PROJECT_DIR$/Recert.html" />
-        <option value="$PROJECT_DIR$/contactUs.html" />
-        <option value="$PROJECT_DIR$/neo.html" />
         <option value="$PROJECT_DIR$/USDC Training.html" />
-        <option value="$PROJECT_DIR$/otherTraining.html" />
-        <option value="$PROJECT_DIR$/styles/otherTraining.css" />
         <option value="$PROJECT_DIR$/USDCTraining.html" />
-        <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/contactUs.html" />
+        <option value="$PROJECT_DIR$/trainingtest.html" />
+        <option value="$PROJECT_DIR$/trainingtestcss.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/styles/otherTraining.css" />
+        <option value="$PROJECT_DIR$/LessTest.less" />
+        <option value="$PROJECT_DIR$/LessTest.css" />
+        <option value="$PROJECT_DIR$/Less/LessTest2.less" />
+        <option value="$PROJECT_DIR$/Less/LessTest2.css" />
+        <option value="$PROJECT_DIR$/Less/AnotherTest.scss" />
+        <option value="$PROJECT_DIR$/Less/SCSSTest.scss" />
+        <option value="$PROJECT_DIR$/Less/index.html" />
+        <option value="$PROJECT_DIR$/otherTraining.html" />
+        <option value="$PROJECT_DIR$/neo.html" />
+        <option value="$PROJECT_DIR$/Recert.html" />
       </list>
     </option>
   </component>
@@ -140,9 +125,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="460" />
-    <option name="y" value="35" />
-    <option name="width" value="897" />
+    <option name="x" value="4" />
+    <option name="y" value="28" />
+    <option name="width" value="1436" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -161,18 +146,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="USDCTraining" type="cbb8eebc:String" user="USDCTraining" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="USDCTraining" type="cbb8eebc:String" user="USDCTraining" />
-              <item name="Images" type="cbb8eebc:String" user="Images" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -184,17 +163,20 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Less" />
       <recent name="$PROJECT_DIR$/Images" />
       <recent name="$PROJECT_DIR$/styles" />
     </key>
@@ -242,7 +224,10 @@
       <workItem from="1505012352911" duration="31000" />
       <workItem from="1505015556466" duration="78000" />
       <workItem from="1505077817285" duration="24519000" />
-      <workItem from="1505229570136" duration="1371000" />
+      <workItem from="1505229570136" duration="23635000" />
+      <workItem from="1505321754787" duration="6201000" />
+      <workItem from="1505395970068" duration="4391000" />
+      <workItem from="1505420477568" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="Changed names and added another css file.">
       <created>1504812634768</created>
@@ -265,31 +250,39 @@
       <option name="project" value="LOCAL" />
       <updated>1505012220180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed the name of the main file.">
+      <created>1505233339706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1505233339706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67728000" />
+    <option name="totallyTimeSpent" value="101168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="35" width="897" height="797" extended-state="0" />
+    <frame x="4" y="28" width="1436" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2522831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29469964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -302,72 +295,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed names and added another css file." />
     <MESSAGE value="Added flex boxes to home page and Other Training page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added flex boxes to home page and Other Training page." />
+    <MESSAGE value="Changed the name of the main file." />
+    <MESSAGE value="Fixed styling and re-structured." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed styling and re-structured." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="16" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactUs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="70" lean-forward="false" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/othertraining.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="115" lean-forward="false" selection-start-line="49" selection-start-column="115" selection-end-line="49" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recert.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -529,7 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainingtest.html" />
     <entry file="file://$PROJECT_DIR$/styles/otherTraining.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -549,30 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1838">
           <caret line="215" column="17" lean-forward="false" selection-start-line="215" selection-start-column="17" selection-end-line="215" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactUs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="65" lean-forward="false" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,34 +514,98 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Images/small.png" />
-    <entry file="file://$PROJECT_DIR$/otherTraining.html">
+    <entry file="file://$PROJECT_DIR$/../cssanimation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="-19">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/otherTraining.css">
+    <entry file="file://$PROJECT_DIR$/contactUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2010">
-          <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+        <state relative-caret-position="487">
+          <caret line="74" column="7" lean-forward="false" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainingtest.html" />
+    <entry file="file://$PROJECT_DIR$/trainingtestcss.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="96" column="13" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="96" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="18" lean-forward="false" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        <state relative-caret-position="-526">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/LessTest.less" />
+    <entry file="file://$PROJECT_DIR$/Less/LessTest.css" />
+    <entry file="file://$PROJECT_DIR$/Less/AnotherTest.scss" />
+    <entry file="file://$PROJECT_DIR$/Less/LessTest2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/LessTest2.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/SCSSTest.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherTraining.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="71" column="14" lean-forward="false" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="69" column="67" lean-forward="true" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/otherTraining.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
