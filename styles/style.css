@@ -122,38 +122,35 @@ nav ul li {
     padding:20px;
 }
 
-.container-1 {
+.homecontainer-1, .homecontainer-2, .homecontainer-3{
     display: flex;
     width: 100%;
     margin-top: 10px;
+
 }
 
-.container-1 div {
+.homecontainer-1 div, .homecontainer-2 div, .homecontainer-3 div{
     border: 3px #ccc solid;
     padding: 10px;
     margin-right: 4px;
     align-items: center;
-    height: 300px;
+    height:300px;
+
 }
 
-.box-1 {
+.square-1, .square-4, .square-5 {
     flex:1;
-    display:block;
     background-image: url("../Images/elearning4.png");
     text-align: center;
     background-size: 100%;
-    width:150px;
-    background-repeat: no-repeat;
-    height: 100px;
 }
 
-.box-1 a {
+.square-1 a, .square-4 a, .square-5 a {
     text-decoration: none;
 }
 
-.box-1 h2 {
+.square-1 h2, .square-4 h2, .square-5 h2 {
     border: 1px solid white;
-    text-decoration: none;
     color:white;
     background-color: black;
     opacity: .75;
@@ -164,114 +161,28 @@ nav ul li {
 }
 
 
-.box-2 {
+.square-2, .square-3, .square-6{
     flex:1;
     background-color: #B2C8C6;
     text-align: center;
-    width:150px;
-    height: 100px;
     font-size: 25px;
     line-height: 50px;
 }
 
-
-.box-2 {
-    font-size: 25px;
-    line-height: 50px;
-}
-
-.container-2 {
-    display: flex;
-    width: 100%;
-    margin-top: 10px;
-
-}
-
-.container-2 div {
-    border: 3px #ccc solid;
-    padding: 10px;
-    margin-right: 4px;
-    align-items: center;
-    height: 300px;
-}
-
-.box-3 {
-    flex: 1;
+.square-3 {
     background-color: #A69B8C;
-    text-align: center;
 }
 
-.box-3 {
-    font-size: 25px;
-    line-height: 50px;
-}
-
-
-.box-4 {
-    flex: 1;
-    text-align: center;
+.square-4  {
     background-image: url("../Images/elearning3.png");
-    background-size: 100%;
-
-}
-.box-4 h2 {
-    border: 1px solid white;
-    color:white;
-    background-color: black;
-    opacity: .75;
-    padding: 15px;
-    margin-top: 125px;
-    width:200px;
-    margin-left: 120px;
-}
-.box-4 a {
-    text-decoration: none;
 }
 
-.container-3 {
-    display:flex;
-    width: 100%;
-    margin-top: 10px;
-
-}
-
-.container-3 div {
-    border: 3px #ccc solid;
-    padding: 10px;
-    margin-right: 4px;
-    align-items: center;
-    height: 300px;
-}
-
-.box-5 {
-    flex: 1;
-    text-align: center;
+.square-5 {
     background-image: url("../Images/elearning2.png");
-    background-size: 100%;
-
-}
-.box-5 h2 {
-    border: 1px solid white;
-    color:white;
-    background-color: black;
-    opacity: .75;
-    padding: 15px;
-    margin-top: 125px;
-    width:200px;
-    margin-left: 120px;
-}
-.box-5 a {
-    text-decoration: none;
 }
 
-.box-6 {
-    flex: 1;
+.square-6 {
     background-color: #DBEFE7;
-    text-align: center;
-}
-.box-6 {
-font-size: 25px;
-line-height: 50px;
 }
 
 footer {
@@ -293,4 +204,134 @@ footer {
  .twitter a {
      text-decoration: none;
  }
+
+ /*Other Pages CSS*/
+
+.mainImage {
+    position: relative;
+    width:100%;
+}
+
+.trainingtext h2{
+    color:black;
+    text-align:center;
+    font-size:30px;
+    text-transform: uppercase;
+    padding:10px;
+}
+
+.trainingtext h4 {
+    color:black;
+    text-align: center;
+    font-size: 15px;
+    line-height: .5;
+    padding-bottom: 10px;
+}
+
+.container-1{
+    display:flex;
+    width:100%;
+    height: 400px;
+    margin-top: 10px;
+}
+.box-1, .box-2, .box-3, .box-4, .box-5{
+    position: relative;
+    border: 3px #ccc solid;
+    margin-right: 5px;
+    text-align: center;
+    width:25%;
+}
+.section1{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+.section-1 a {
+    color:black;
+    text-decoration: none;
+}
+.section-2{
+    position: absolute;
+    bottom:0;
+    width:100%;
+    color:black;
+}
+.box-1{
+    background-color: #DBEFE7;
+}
+
+.box-2 {
+    background-color: #F2F3F2;
+}
+
+.box-3 {
+    background-color: #A69B8C;
+}
+
+.box-3 div{
+    color:black;
+    text-decoration: none;
+}
+
+
+
+.box-4 {
+    background-color: #B2C8C6;
+}
+
+.box-5 {
+    background-color: #D6CCBC;
+}
+
+
+.container-2{
+    display:flex;
+    width:100%;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.container-2 div{
+    border: 3px #ccc solid;
+    padding: 10px;
+    margin-right: 4px;
+}
+
+.container-2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.box-6 {
+    flex:1;
+    background-color: #A69B8C ;
+    text-align: center;
+}
+
+.box-7 {
+    flex:1;
+    background-color: #B2C8C6;
+    text-align: center;
+}
+
+.box-8 {
+    flex:1;
+    background-color: #F2F3F2;
+    text-align: center;
+}
+
+.box-9 {
+    flex:1;
+    background-color: #D6CCBC;
+    text-align: center;
+}
+
+.box-10 {
+    flex:1;
+    background-color: #DBEFE7;
+    text-align: center;
+}
+
+
 
