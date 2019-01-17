@@ -1,5 +1,5 @@
 body {
-    width: 1000px;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     font-family: Verdana, Arial;
@@ -145,8 +145,11 @@ nav ul li {
     background-size: 100%;
 }
 
-.btn-secondary {
-    font-size: 25px;
+.square-1 a, .square-4 a, .square-5 a {
+    text-decoration: none;
+}
+
+.square-1 h2, .square-4 h2, .square-5 h2 {
     border: 1px solid white;
     color:white;
     background-color: black;
@@ -154,16 +157,7 @@ nav ul li {
     padding: 15px;
     margin-top: 125px;
     width:200px;
-    margin-left: 20px;
-}
-
-.square-1 button:hover, .square-4 button:hover, .square-5 button:hover {
-    border: 1px solid black;
-    color:black;
-    background-color: white;
-    opacity: .75;
-    cursor: pointer;
-
+    margin-left: 120px;
 }
 
 
@@ -192,12 +186,12 @@ nav ul li {
 }
 
 footer {
-     text-align: center;
-     color: black;
-     background-color: #D6CCBC;
-     margin: 10px;
-     padding: 5px;
- }
+    text-align: center;
+    color: black;
+    background-color: #D6CCBC;
+    margin: 10px;
+    padding: 5px;
+}
 
 .fbcontainer {
     flex-direction: row;
@@ -207,11 +201,11 @@ footer {
     padding:15px;
 
 }
- .twitter a {
-     text-decoration: none;
- }
+.twitter a {
+    text-decoration: none;
+}
 
- /*Other Pages CSS*/
+/*Other Pages CSS*/
 
 .mainImage {
     position: relative;
@@ -263,16 +257,9 @@ footer {
     width:100%;
     color:black;
 }
-
-
 .box-1{
-    background-color:#F2F3F2;
+    background-color: #DBEFE7;
 }
-
-.box-1 hover {
-    background-color: #cccccc;
-}
-
 
 .box-2 {
     background-color: #F2F3F2;
@@ -345,6 +332,4 @@ footer {
     background-color: #DBEFE7;
     text-align: center;
 }
-
-
 
