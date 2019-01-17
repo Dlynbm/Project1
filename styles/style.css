@@ -155,19 +155,27 @@ nav ul li {
     background-color: black;
     opacity: .75;
     padding: 15px;
-    margin-top: 125px;
+    margin-top: 100px;
     width:200px;
-    margin-left: 120px;
+    margin-left: 250px;
 }
 
 
 .square-2, .square-3, .square-6{
     flex:1;
+    align-items: center;
+    justify-content: center;
     background-color: #B2C8C6;
     text-align: center;
+    /*padding-top: 50%;
     font-size: 25px;
     line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;*/
 }
+
+
 
 .square-3 {
     background-color: #A69B8C;
@@ -332,5 +340,4 @@ footer {
     background-color: #DBEFE7;
     text-align: center;
 }
-
 

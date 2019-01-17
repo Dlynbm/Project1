@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3646ba25-a694-4f31-a217-b133ecf3ce57" name="Default" comment="Changed image width">
+    <list default="true" id="3646ba25-a694-4f31-a217-b133ecf3ce57" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Recert.html" afterPath="$PROJECT_DIR$/Recert.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo.html" afterPath="$PROJECT_DIR$/neo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/otherTraining.html" afterPath="$PROJECT_DIR$/otherTraining.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/style.css" afterPath="$PROJECT_DIR$/styles/style.css" />
     </list>
@@ -22,10 +24,10 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
+            <state relative-caret-position="4995">
               <caret line="333" column="1" lean-forward="false" selection-start-line="333" selection-start-column="1" selection-end-line="333" selection-end-column="1" />
               <folding>
-                <marker date="1547744693000" expanded="true" signature="5:21" ph="{...}" />
+                <marker date="1547757001000" expanded="true" signature="5:21" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="-507">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -44,8 +46,8 @@
       <file leaf-file-name="Recert.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recert.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            <state relative-caret-position="206">
+              <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -54,8 +56,8 @@
       <file leaf-file-name="neo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="77" column="27" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+            <state relative-caret-position="581">
+              <caret line="115" column="6" lean-forward="true" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -64,8 +66,8 @@
       <file leaf-file-name="otherTraining.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/otherTraining.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="35" column="6" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="6" />
+            <state relative-caret-position="402">
+              <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -90,6 +92,7 @@
       <find>bo</find>
       <find>banner</find>
       <find>.train</find>
+      <find>home</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -120,11 +123,11 @@
         <option value="$PROJECT_DIR$/contactUs.html" />
         <option value="$PROJECT_DIR$/styles/style.less" />
         <option value="$PROJECT_DIR$/styles/otherTraining.css" />
-        <option value="$PROJECT_DIR$/neo.html" />
-        <option value="$PROJECT_DIR$/otherTraining.html" />
-        <option value="$PROJECT_DIR$/Recert.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/otherTraining.html" />
+        <option value="$PROJECT_DIR$/neo.html" />
+        <option value="$PROJECT_DIR$/Recert.html" />
       </list>
     </option>
   </component>
@@ -284,7 +287,7 @@
       <workItem from="1506358928865" duration="17000" />
       <workItem from="1506359337102" duration="199000" />
       <workItem from="1506359623282" duration="13000" />
-      <workItem from="1547684401079" duration="6028000" />
+      <workItem from="1547684401079" duration="8574000" />
     </task>
     <task id="LOCAL-00001" summary="Changed names and added another css file.">
       <created>1504812634768</created>
@@ -349,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547741384645</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed the index.html image to cover entire width of screen.">
+      <created>1547744736379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547744736379</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116909000" />
+    <option name="totallyTimeSpent" value="119455000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -427,7 +437,8 @@
     <MESSAGE value="Merged the two style sheets into one." />
     <MESSAGE value="Fixed all the training links." />
     <MESSAGE value="Changed image width" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed image width" />
+    <MESSAGE value="Fixed the index.html image to cover entire width of screen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the index.html image to cover entire width of screen." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -645,44 +656,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recert.html">
+    <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state relative-caret-position="4995">
+          <caret line="333" column="1" lean-forward="false" selection-start-line="333" selection-start-column="1" selection-end-line="333" selection-end-column="1" />
+          <folding>
+            <marker date="1547757001000" expanded="true" signature="5:21" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherTraining.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/neo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="77" column="27" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+        <state relative-caret-position="581">
+          <caret line="115" column="6" lean-forward="true" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/otherTraining.html">
+    <entry file="file://$PROJECT_DIR$/Recert.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="35" column="6" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="6" />
+        <state relative-caret-position="206">
+          <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="333" column="1" lean-forward="false" selection-start-line="333" selection-start-column="1" selection-end-line="333" selection-end-column="1" />
-          <folding>
-            <marker date="1547744693000" expanded="true" signature="5:21" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state relative-caret-position="-507">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
