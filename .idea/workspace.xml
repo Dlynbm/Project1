@@ -62,8 +62,8 @@
       <file leaf-file-name="otherTraining.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/otherTraining.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="45" column="96" lean-forward="false" selection-start-line="45" selection-start-column="96" selection-end-line="45" selection-end-column="96" />
+            <state relative-caret-position="203">
+              <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -161,16 +161,6 @@
             <path>
               <item name="USDCTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="USDCTraining" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="USDCTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="USDCTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="USDCTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="USDCTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,7 +273,7 @@
       <workItem from="1506358928865" duration="17000" />
       <workItem from="1506359337102" duration="199000" />
       <workItem from="1506359623282" duration="13000" />
-      <workItem from="1547684401079" duration="9143000" />
+      <workItem from="1547684401079" duration="10087000" />
     </task>
     <task id="LOCAL-00001" summary="Changed names and added another css file.">
       <created>1504812634768</created>
@@ -369,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547761058920</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Changed the security awareness link again.">
+      <created>1547761359404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547761359404</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120024000" />
+    <option name="totallyTimeSpent" value="120968000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -450,7 +447,8 @@
     <MESSAGE value="Fixed the index.html image to cover entire width of screen." />
     <MESSAGE value="Fixed images and links to open in new tab" />
     <MESSAGE value="Changed the security awareness link." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the security awareness link." />
+    <MESSAGE value="Changed the security awareness link again." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the security awareness link again." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -704,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/otherTraining.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="45" column="96" lean-forward="false" selection-start-line="45" selection-start-column="96" selection-end-line="45" selection-end-column="96" />
+        <state relative-caret-position="203">
+          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
           <folding />
         </state>
       </provider>
